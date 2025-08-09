@@ -15,13 +15,11 @@ A visually appealing static landing page for a café, designed to attract custom
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3
-- JavaScript
 
 ## 📂 Folder Structure
 /cafe_page
 │── index.html
 │── style.css
-│── script.js
 │── images/ # All images used in the design
 │── README.md
 
